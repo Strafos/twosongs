@@ -1,0 +1,40 @@
+106.0581713	26141536.0	./cls_met/Tchaikovsky Violin Concerto in D Major, Op. 35 III. Finale. Allegro Vivacissimo - Jennifer Jeon-KRSL4x3stPo.wav
+110.315625261	905712.0	./cls_met/System Of A Down - Chop Suey!-CSvFpBOe8eY.wav
+143.711780043	0	./cls_met/Elgar - Cello Concerto in E minor, Op. 85-Biy8iNUn13M.wav
+145.727533672	1965552.0	./cls_met/Hymn for the Lost and the Living - Eric Ewazen-P_D3zkAkjL0.wav
+146.558105107	15302928.0	./cls_met/Stefan Milenkovich - Sarasate Carmen Fantasy, Op. 25-JTreIMvuduY.wav
+151.939531136	5203456.0	./cls_met/system of a down-vicinity of obscenity--If2r9ENQfA.wav
+158.564907504	15701712.0	./cls_met/Mozart Symphony #40 in G Minor, K 550 - 1. Molto Allegro--hJf4ZffkoI.wav
+160.045265328	2484304.0	./cls_met/Brahms Waltz in A-Flat Major, Op. 39 No. 15 - Evgeny Kissin-oy6uV-eMOEs.wav
+178.067547724	0	./cls_met/Disturbed - down with the sickness-L78yVFeyvRo.wav
+181.601394112	0	./cls_met/Julia Fischer - Tchaikovsky - Violin Concerto in D major, Op 35-ovFPKu00cCc.wav
+190.238278248	163568.0	./cls_met/Edward Elgar - Salut d'Amour Op.12-ecM7_3rs5gU.wav
+193.485799383	13424.0	./cls_met/System Of A Down - Violent Pornography #07-xrHFknW-i64.wav
+195.295162006	3416816.0	./cls_met/System Of A Down - Hypnotize-LoheCz4t2xc.wav
+199.848599546	0	./cls_met/Georges Bizet - Carmen Suite No. 2 - Habanera-4rwcRQvAiTg.wav
+210.479055774	52080.0	./cls_met/System Of A Down - Cigaro #04-ehwYjuZ6e_Q.wav
+212.720240653	387232.0	./cls_met/Disturbed - Warrior Lyrics HD-71BCqL2ecoE.wav
+216.118338977	7697656.0	./cls_met/System of a Down - I-E-A-I-A-I-O Lyrics-38yhKhGGPJs.wav
+217.212440349	2391600.0	./cls_met/System Of A Down - Lonely Day-DnGdoEa1tPg.wav
+217.86971831	8282064.0	./cls_met/System Of A Down - Lost In Hollywood [with lyrics]-mkoIiJhnXLo.wav
+218.398411648	3403264.0	./cls_met/Avenged Sevenfold - So Far Away [Official Music Video]-A7ry4cx6HfY.wav
+218.530986149	17468000.0	./cls_met/Itzhak Perlman - Pablo de Sarasate, Zigeunerweisen Op.20-ufIlOXXMqs0.wav
+218.530986149	8505456.0	./cls_met/Peer Gynt Suite No. 1, Op. 46 - Morning Mood-v52gJKS1PWQ.wav
+219.463533585	3991824.0	./cls_met/Symphony No. 9 in D Minor, Op. 125, 'Choral' - An die Freude-SjDqGTxXjvw.wav
+219.853749924	0	./cls_met/Avenged Sevenfold -  Welcome to the Family lyrics-AGzIcLfRMcY.wav
+42.5312540276	0	./cls_met/System Of A Down - Toxicity-iywaBOMvYLI.wav
+44.4259959388	0	./cls_met/System of a Down Radio_Video-qIDzPUt20F4.wav
+48.6134128826	298688.0	./cls_met/Cello Concerto in E Minor, Op.85 (1995 Remastered Version)  - IV. Allegro - Moderato - Allegro,...-R72xwyD9sRg.wav
+48.7120820725	0	./cls_met/String Quintet in E Major, Op. 13 - Minuet-jWfUGLCndsc.wav
+50.37414495	279496.0	./cls_met/Game of Thrones (Main Title) - String Quartet Tribute to Game of Thrones - Vitamin String Quartet-MaRcRdg705E.wav
+50.4048549339	3085556.0	./cls_met/System Of A Down - Old School Hollywood #10-iJUhHpu0NOQ.wav
+50.7302075327	0	./cls_met/Die Zauberflöte (The Magic Flute) , K. 620 - Overture-OL8BEre7alw.wav
+51.7140058766	905712.0	./cls_met/Disturbed - Stricken [Official Music Video]-3moLkjvhEu0.wav
+52.3228159188	11274160.0	./cls_met/System Of A Down - B.Y.O.B.-zUzd9KyIDrM.wav
+53.4333634683	3316528.0	./cls_met/Beethoven-Bagatelle no. 25 in A minor, WoO 59 (Fur Elise)-NShTqdkCrXQ.wav
+56.7164606637	3207952.0	./cls_met/Avenged Sevenfold - Shepherd Of Fire [Official Music Video]-bT8FEOJEFcI.wav
+77.8990852759	38930816.0	./cls_met/Boccherini, Cello Concerto No.9, G.482, B-flat major, Allegro Moderato & Adagio non troppo-frNeefjhhfY.wav
+77.9665688803	5797008.0	./cls_met/Liszt - Hungarian Rhapsody No. 2 in C Sharp Minor S.359_2 (orchestral)-BjoAgeyoP-A.wav
+79.079798706	0	./cls_met/Má Vlast (My Fatherland)  - Vltava (The Moldau River)-ccf4IgclQ04.wav
+95.5210712879	0	./cls_met/The Planets - Nr.4 - Jupiter, the Bringer of Jollity - Gustav Holst - Berlin Philharmonic Orchestra-rQpAJK-voWM.wav
+97.6072549704	15243604.0	./cls_met/Mars, the Bringer of War - Gustav Holst - The Planets (Berliner Philharmoniker, Herbert von Karajan)-DhbhLtEju2A.wav
